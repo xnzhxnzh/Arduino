@@ -2,7 +2,6 @@
 Keyestudio smart home Kit for Arduino
 Project 3.1
 Buzzer
-http://www.keyestudio.com
 */
 int tonepin = 3; // Set the Pin of the buzzer to the digital D3
      void setup ()
