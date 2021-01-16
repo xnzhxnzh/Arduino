@@ -2,7 +2,6 @@
 Keyestudio smart home Kit for Arduino
 Project 5
 Relay
-http://www.keyestudio.com
 */
 int Relay = 12; // Define the relay pin at D12
 void setup ()
