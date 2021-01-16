@@ -2,7 +2,6 @@
 Keyestudio smart home Kit for Arduino
 Project 4
 Button
-http://www.keyestudio.com
 */
 int ledpin = 5; // Define the led light in D5
 int inpin = 4; // Define the button in D4
