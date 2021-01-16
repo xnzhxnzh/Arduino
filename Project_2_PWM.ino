@@ -2,7 +2,6 @@
 Keyestudio smart home Kit for Arduino
 Project 2
 PWM
-http://www.keyestudio.com
 */
 int ledPin = 5; // Define the LED pin at D5
 void setup () {
