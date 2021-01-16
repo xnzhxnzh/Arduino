@@ -2,7 +2,6 @@
 Keyestudio smart home Kit for Arduino
 Project 3.2
 Buzzer music
-http://www.keyestudio.com
 */
 #define NTD0 -1
 #define NTD1 294
